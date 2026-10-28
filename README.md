@@ -25,6 +25,5 @@ I hold a Ph.D. in Biomedical Engineering from Chiba University and have research
 - Work across medical, engineering, and simulation domains.
 - Make results inspectable through clear plots, documented assumptions, and small usable demos.
 
-**中文：** 我的研究围绕医疗与仿真数据的 AI 分析，关注模型评估、结果解释，以及把研究成果做成可使用的工具。个人网站支持中文和英文切换。
 
 Each repository describes its source material and limitations. Research collaborations and AI-assisted application development are identified separately.
