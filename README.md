@@ -7,14 +7,17 @@ I hold a Ph.D. in Biomedical Engineering from Chiba University and have research
 
 **[Personal website & live demos](https://siruiwang-615.github.io/)** · [Research publications](https://scholar.google.com/citations?user=yrTgFg4AAAAJ&hl=en) · [Blood-flow result viewer](https://siruiwang-615.github.io/cardiovascular-flow-demo/)
 
-## Selected work
+## Selected research
 
-| Project | What to explore | Links |
+| Research | Focus | Links |
 | :--- | :--- | :--- |
-| **3D cardiovascular flow** | A pretrained point-cloud model: reference, prediction, and error shown together on a shared physical scale. | [Result viewer](https://siruiwang-615.github.io/cardiovascular-flow-demo/) · [Code & methodology](https://github.com/SiruiWang-615/cardiovascular-flow-demo) |
-| **Nanoscale water distribution** | Research code related to water distribution prediction in fuel-cell catalyst layers. | [Repository](https://github.com/SiruiWang-615/Nanoscale-water-distribution-prediction) |
-| **N1 learning platform** | A personal learning tool developed with AI assistance, including vocabulary, grammar, listening, and practice workflows. | [Try it](https://siruiwang-615.github.io/n1-quiz/) · [Code](https://github.com/SiruiWang-615/n1-quiz) |
-| **Roadnote** | A Japanese–Chinese study interface with practice and progress tracking, developed with AI assistance. | [Try it](https://siruiwang-615.github.io/roadnote-quiz/) · [Code](https://github.com/SiruiWang-615/roadnote-quiz) |
+| **Pulse waves & cardiac function** | First-author studies on physiological signal-based prediction; related work includes patient subgroup analysis. | [2022 paper](https://doi.org/10.1016/j.cmpb.2022.106664) · [2024 paper](https://doi.org/10.1186/s12938-024-01201-7) |
+| **Carotid hemodynamics** | First-author research on pre- and post-treatment 3D flow prediction. A separate checkpoint demo demonstrates inference on a different cardiovascular sample. | [Paper](https://doi.org/10.3389/fphys.2022.1094743) · [Separate flow demo](https://siruiwang-615.github.io/cardiovascular-flow-demo/) · [Demo code](https://github.com/SiruiWang-615/cardiovascular-flow-demo) |
+| **Fuel-cell water transport** | Collaborative work connecting molecular simulation and deep learning. | [Paper](https://doi.org/10.1021/acsami.2c17198) · [Repository](https://github.com/SiruiWang-615/Nanoscale-water-distribution-prediction) |
+
+### Personal tools — AI-assisted development
+
+[N1 learning platform](https://siruiwang-615.github.io/n1-quiz/) · [N1 code](https://github.com/SiruiWang-615/n1-quiz) · [Roadnote bilingual practice](https://siruiwang-615.github.io/roadnote-quiz/) · [Roadnote code](https://github.com/SiruiWang-615/roadnote-quiz)
 
 ## How I work
 
